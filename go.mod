@@ -1,4 +1,4 @@
-module github.com/NilsPonsard/verbosity
+module github.com/nponsard/verbosity
 
 go 1.17
 
